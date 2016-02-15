@@ -1,0 +1,30 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Assignment 1/plot1.R
+#	new file:   Assignment 1/plot1.png
+#	new file:   Assignment 1/plot2.R
+#	new file:   Assignment 1/plot2.png
+#	new file:   Assignment 1/plot3.R
+#	new file:   Assignment 1/plot3.png
+#	new file:   Assignment 1/plot4.R
+#	new file:   Assignment 1/plot4.png
+#	new file:   plot1.R
+#
+# Changes not staged for commit:
+#	modified:   Assignment 1/plot1.png
+#
+# Untracked files:
+#	plot1.png
+#	plot2.R
+#	plot2.png
+#	plot3.R
+#	plot3.png
+#	plot4.R
+#	plot4.png
+#
+
